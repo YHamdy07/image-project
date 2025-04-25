@@ -1,6 +1,7 @@
 import wx
 import cv2
 import numpy as np
+import matplotlib.pyplot as plt
 
 # Corrected Gaussian function
 def Gaussian(img, ker_size, k):
